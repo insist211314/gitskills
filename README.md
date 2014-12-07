@@ -1,4 +1,4 @@
 gitskills
 =========
 
-hello readme.txt
+creating a new brance is quick $ simple.
